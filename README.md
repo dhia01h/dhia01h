@@ -61,5 +61,5 @@ This project was built as part of the **Data Science curriculum** at *Esprit Sch
 
 ---
 
-🚀 Want to test the matching engine? Run it in Google Colab or host Scoutify online using Flask + Python!
+
 
